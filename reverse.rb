@@ -1,4 +1,5 @@
+# frozen_string_literal: true
+
 def reverse(str)
-  reversed_str = str.reverse
-  reversed_str
+  str.reverse
 end
